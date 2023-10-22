@@ -4,7 +4,7 @@ Michael Cannon
 CIS 1202.501
 October 10, 2023
 
-This program displays the text "Hello, World!" to the console.
+This program displays the text "Hello, Universe!" to the console.
 It will be used to test code management.
 */
 
@@ -14,7 +14,7 @@ using namespace std;
 
 int main()
 {
-	cout << "Hello, World!" << endl;
+	cout << "Hello, Universe!" << endl;
 	
 	
 	//END
